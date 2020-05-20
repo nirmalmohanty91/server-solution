@@ -4,6 +4,5 @@ spring:
       server:
         git:
           uri: https://github.com/nirmalmohanty91/ConfigData
-
 server:
   port: 8001
